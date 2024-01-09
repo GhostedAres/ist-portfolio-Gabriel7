@@ -11,7 +11,7 @@ git commit -m "commit message"
 git push
 ```
 
-![Tux] (fresh-pink-blossoms-adorn-budding-cherry-tree-generated-by-ai_188544-10349.jpg)
+![Tux](fresh-pink-blossoms-adorn-budding-cherry-tree-generated-by-ai_188543-10349.jpg)
 
 To autocomplete filenames in vim
 - Ctrl+x Ctrl+f
